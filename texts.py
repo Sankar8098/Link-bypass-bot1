@@ -100,4 +100,4 @@ HELP_TEXT = f'**--Just Send me any Supported Links From Below Mentioned Sites--*
 **List of Sites for Shortners : ** \n{shortnertext} \n\
 **List of Sites for GDrive Look-ALike : ** \n{gdrivetext} \n\
 **Other Supported Sites : ** \n{otherstext} \n\
-**+ [Pybypass Library Sites](https://github.com/sanjit-sinha/PyBypass)**'
+**+ [Pybypass Library Sites](https://github.com/)**'
